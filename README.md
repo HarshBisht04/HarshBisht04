@@ -15,7 +15,7 @@ Passionate about extracting data-driven business insights, optimizing relational
 
 ### 📂 Featured Projects
 - **Ola Cabs Operational & Revenue Analytics:** End-to-end data pipeline processing 100K+ records. Solved 10 core business operational questions using SQL views and developed an interactive Power BI dashboard tracking GMV, cancellations, and fleet performance.
-
+- **SQL Data Cleaning & Exploratory Data Analysis:** End-to-end data cleaning pipeline in MySQL using staging tables, duplicate removal via window functions, date transformations, and advanced EDA queries to extract key business insights.
 ---
 
 ### 📬 Connect With Me
